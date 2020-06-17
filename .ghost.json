@@ -4,7 +4,7 @@
     "contentApiKey": "f99ef162ffbb5895263c98f1a5"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
+    "apiUrl": "http://localhost:2369",
     "contentApiKey": "9cc5c67c358edfdd81455149d0"
    }
  }
